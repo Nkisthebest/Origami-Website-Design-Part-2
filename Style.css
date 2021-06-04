@@ -1,0 +1,32 @@
+h3{
+    color: white;
+    background-color: black;;
+}
+img {
+    border: 5px solid #555;
+    border-radius: 25px;
+}
+.header{
+    text-align: center;
+    background-color: black;
+    color: red;
+    height: 25px;
+}
+.body{
+    justify-content: space-between;
+    background: linear-gradient(#e91e63,#ffc107);
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+.origami{
+    border-radius: 20px;
+    background-color: violet;
+    width: 625px;
+    font-family: fantasy;
+    border-color: black ;
+    border: #00b7ff 20px solid;
+    justify-content: space-evenly;
+}
